@@ -85,8 +85,8 @@ Django의 여러가지 장점들은 '표준화된 웹 어플리케이션'의 개
 
 
 ## 참조
-https://blog.lxf.kr/2018-11-19---why-or-not-django/
-https://mungto.tistory.com/302/
-http://blog.wishket.com/
-https://rakjido.github.io/2020/11/17/Django-Overview/
-https://velog.io/@jnine/
+https://blog.lxf.kr/2018-11-19---why-or-not-django/  
+https://mungto.tistory.com/302/  
+http://blog.wishket.com/  
+https://rakjido.github.io/2020/11/17/Django-Overview/  
+https://velog.io/@jnine/  
