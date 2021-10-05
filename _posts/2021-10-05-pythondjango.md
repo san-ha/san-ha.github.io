@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Django 만의 차별성
+title: Point of Django
 subtitle: Python과 Django를 선택한 이유
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -84,6 +84,8 @@ Django에도 동적 페이지 로딩 개선(SSR)을 지원하는 확장 모듈�
 ## 결론
 
 Django의 여러가지 장점들은 '표준화된 웹 어플리케이션'의 개발 속도를 높혀준다.
+
+
 
 ## 참조
 https://blog.lxf.kr/2018-11-19---why-or-not-django/
