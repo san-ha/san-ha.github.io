@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Point of Django
-subtitle: Python과 Django를 선택한 이유
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+subtitle: Python기반 Django의 장단점
+cover-img: /assets/img/coding.jpg
+thumbnail-img: /assets/img/python.png
+share-img: /assets/img/coding.jpg
 tags: [Python, Django]
 comments: true
 ---
@@ -77,7 +77,7 @@ Django Extensions, Django Debug Toolbar, Rosetta, Django REST Framework, 검색,
 
 
 
-## 결론
+## 한 줄 요약
 
 Django의 여러가지 장점들은 '표준화된 웹 어플리케이션'의 개발 속도를 높혀준다.
 
