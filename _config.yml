@@ -71,9 +71,9 @@ rss-description: 목적지를 정했지만 배우고 싶은 것이 많아 길이
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer

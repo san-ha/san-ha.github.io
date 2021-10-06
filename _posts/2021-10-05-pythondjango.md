@@ -5,7 +5,7 @@ subtitle: Python기반 Django의 장단점
 cover-img: /assets/img/coding.jpg
 thumbnail-img: /assets/img/python.png
 share-img: /assets/img/coding.jpg
-tags: [Python, Django]
+tags: [Python, Django, Framework]
 comments: true
 ---
 
